@@ -1,0 +1,16 @@
+PODS:
+  - PDFGenerator (3.0.0)
+
+DEPENDENCIES:
+  - PDFGenerator
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - PDFGenerator
+
+SPEC CHECKSUMS:
+  PDFGenerator: e00fd09ae8021e304b5672cf11bc28234fc626e7
+
+PODFILE CHECKSUM: 8dd43e632d9ee27ded87ded8bb30d02aeaf462e4
+
+COCOAPODS: 1.10.1
